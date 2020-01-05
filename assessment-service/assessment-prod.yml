@@ -1,10 +1,10 @@
-member:
- rent:
-  min: 5
-  max: 40
- price:
-  discount: 3.5
-vehicle:
+assessment:
+ date:
+  start: 8/12/2010
+  end: 31/12/2019
+ item:
+  itemcount: 30
+scheduleselection:
  default:
-  model: cross over
-duration: winter
+  type: all students scheduled
+methodofdelivary: online
