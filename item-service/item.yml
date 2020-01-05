@@ -1,8 +1,8 @@
-report:
+item:
   export:
     type: pdf
-  border: none
-  page:
-    color: white
-    size: A4
-duration: all
+  discrption: 200
+  requirement:
+    subject: ELA
+    grade: 5
+methodofdelivary: online
