@@ -1,6 +1,6 @@
-search:
- result:
-  perpage: 200
+report:
+ pagination:
+  pagesize: 50
  canexport: true
  render: false
-duration: all
+type: Lead4ward
