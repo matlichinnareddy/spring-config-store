@@ -1,0 +1,10 @@
+assessment:
+ date:
+  start: 8/12/2010
+  end: 31/12/2019
+ item:
+  itemcount: 30
+scheduleselection:
+ default:
+  type: all students scheduled
+methodofdelivary: online
