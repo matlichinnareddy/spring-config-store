@@ -7,4 +7,4 @@ assessment:
 scheduleselection:
  default:
   type: all students scheduled
-methodofdelivary: online
+methodofdelivary: GradeCam
