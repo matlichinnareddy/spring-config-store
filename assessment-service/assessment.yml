@@ -1,9 +1,9 @@
 assessment:
  date:
   start: 8/12/2010
-  end: 31/12/2019
+  end: 31/09/2019
  item:
-  itemcount: 32
+  itemcount: 09
 scheduleselection:
  default:
   type: all students scheduled
