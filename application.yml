@@ -2,8 +2,8 @@ spring:
   datasource:
     url: jdbc:sqlserver://10.2.20.26:1433;databaseName=stars_QA
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver 
-    username: devuser
-    password: Free$o)a19
+    username: suiteapp
+    password: h@ppyC0w52
   jpa:
     hibernate:
       naming:
